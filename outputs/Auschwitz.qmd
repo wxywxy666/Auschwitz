@@ -21,7 +21,7 @@ data <- read.csv(here::here("inputs/Auschwitz_data.csv"), stringsAsFactors = FAL
 # Introduction
 The Auschwitz concentration camp is an enduring symbol of the Holocaust's horrors. Between 1940 and 1945, it was the site of the largest mass murder in a single location. The data analyzed in this report reflects the nationalities and categories of the individuals who were deported to Auschwitz and those who became victims within its fences.
 
-The Shiny app can be accessed [].
+The Shiny app can be accessed ["outputs/app.R].
 
 # Data
 The core of this report revolves around a detailed examination of a dataset that enumerates the victims of Auschwitz, broken down by nationality/category. This dataset is a historical compilation of records that quantifies the magnitude of human loss during one of history's darkest periods.
